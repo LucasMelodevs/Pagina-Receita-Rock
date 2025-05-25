@@ -23,7 +23,7 @@ width:800px;
 padding: 24px;
 background-color: #F0E8C2;
 border-radius: 24px;
-margin: 48px auto;
+margin: 48px auto 28px;
 
 
 }
@@ -71,4 +71,17 @@ ul{
 
 p{
     color: #573A37;
+}
+
+footer{
+
+    color:blue;
+    text-align: center;
+    padding-top: 28px;
+    padding-bottom: 12px;
+
+}
+
+footer img{
+    vertical-align: bottom;
 }
